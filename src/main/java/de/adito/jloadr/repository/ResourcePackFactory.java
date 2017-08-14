@@ -1,6 +1,7 @@
 package de.adito.jloadr.repository;
 
 import de.adito.jloadr.api.*;
+import de.adito.jloadrLib.api.IResourcePack;
 
 import java.net.URL;
 import java.util.ServiceLoader;

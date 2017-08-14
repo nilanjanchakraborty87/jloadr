@@ -1,8 +1,10 @@
 package de.adito.jloadr.repository.jlr;
 
-import de.adito.jloadr.api.*;
-import de.adito.jloadr.common.JLoadrUtil;
+import de.adito.jloadrLib.api.*;
+import de.adito.jloadrLib.common.JLoadrUtil;
 import de.adito.jloadr.repository.URLResource;
+import de.adito.jloadrLib.api.*;
+import de.adito.jloadrLib.repository.jlr.*;
 
 import java.net.*;
 import java.util.*;

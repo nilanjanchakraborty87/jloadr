@@ -1,6 +1,6 @@
 package de.adito.jloadr.repository.jnlp;
 
-import de.adito.jloadr.common.XMLUtil;
+import de.adito.jloadrLib.common.XMLUtil;
 import org.w3c.dom.*;
 
 import java.io.IOException;

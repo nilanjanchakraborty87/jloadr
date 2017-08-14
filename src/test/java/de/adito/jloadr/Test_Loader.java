@@ -1,8 +1,9 @@
 package de.adito.jloadr;
 
-import de.adito.jloadr.api.*;
+import de.adito.jloadr.api.IStore;
 import de.adito.jloadr.repository.*;
 import de.adito.jloadr.repository.local.LocalStore;
+import de.adito.jloadrLib.api.*;
 import org.junit.*;
 
 import java.io.*;

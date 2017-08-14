@@ -1,4 +1,4 @@
 module de.adito.jloadr {
-  requires java.xml;
+  requires de.adito.jloadrLib;
   requires java.desktop;
 }

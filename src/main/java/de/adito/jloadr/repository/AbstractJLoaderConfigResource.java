@@ -1,7 +1,7 @@
 package de.adito.jloadr.repository;
 
-import de.adito.jloadr.api.*;
-import de.adito.jloadr.common.JLoadrUtil;
+import de.adito.jloadrLib.api.*;
+import de.adito.jloadrLib.common.JLoadrUtil;
 
 import java.io.*;
 

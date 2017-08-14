@@ -1,6 +1,7 @@
 package de.adito.jloadr.repository.jnlp;
 
-import de.adito.jloadr.api.*;
+import de.adito.jloadr.api.IResourcePackFactory;
+import de.adito.jloadrLib.api.IResourcePack;
 
 import java.net.URL;
 

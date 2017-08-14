@@ -1,7 +1,8 @@
 package de.adito.jloadr.repository;
 
-import de.adito.jloadr.api.IResourceId;
-import de.adito.jloadr.common.XMLUtil;
+import de.adito.jloadrLib.api.IResourceId;
+import de.adito.jloadrLib.common.XMLUtil;
+import de.adito.jloadrLib.repository.ResourceId;
 import org.w3c.dom.*;
 
 import java.io.*;

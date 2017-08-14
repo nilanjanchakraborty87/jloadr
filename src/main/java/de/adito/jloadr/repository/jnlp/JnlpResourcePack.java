@@ -1,8 +1,9 @@
 package de.adito.jloadr.repository.jnlp;
 
-import de.adito.jloadr.api.*;
-import de.adito.jloadr.common.JLoadrUtil;
 import de.adito.jloadr.repository.*;
+import de.adito.jloadrLib.api.*;
+import de.adito.jloadrLib.common.JLoadrUtil;
+import de.adito.jloadrLib.repository.ResourceId;
 
 import java.io.IOException;
 import java.net.*;

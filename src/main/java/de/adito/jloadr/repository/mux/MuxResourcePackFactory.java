@@ -1,7 +1,8 @@
 package de.adito.jloadr.repository.mux;
 
-import de.adito.jloadr.api.*;
+import de.adito.jloadr.api.IResourcePackFactory;
 import de.adito.jloadr.common.UrlUtil;
+import de.adito.jloadrLib.api.IResourcePack;
 
 import java.io.IOException;
 import java.net.URL;

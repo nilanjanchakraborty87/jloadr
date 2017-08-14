@@ -1,5 +1,7 @@
 package de.adito.jloadr.api;
 
+import de.adito.jloadrLib.api.IStoreResourcePack;
+
 import java.util.*;
 
 /**

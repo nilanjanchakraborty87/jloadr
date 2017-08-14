@@ -1,9 +1,11 @@
 package de.adito.jloadr;
 
-import de.adito.jloadr.api.*;
-import de.adito.jloadr.common.*;
+import de.adito.jloadr.api.ILoader;
+import de.adito.jloadr.common.OsUtil;
 import de.adito.jloadr.repository.*;
 import de.adito.jloadr.repository.local.LocalStore;
+import de.adito.jloadrLib.api.*;
+import de.adito.jloadrLib.common.XMLUtil;
 import org.w3c.dom.*;
 
 import javax.imageio.ImageIO;

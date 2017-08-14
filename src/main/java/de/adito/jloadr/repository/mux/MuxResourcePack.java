@@ -1,8 +1,9 @@
 package de.adito.jloadr.repository.mux;
 
-import de.adito.jloadr.api.*;
 import de.adito.jloadr.common.*;
 import de.adito.jloadr.repository.*;
+import de.adito.jloadrLib.api.*;
+import de.adito.jloadrLib.common.*;
 import org.w3c.dom.Document;
 
 import java.io.*;

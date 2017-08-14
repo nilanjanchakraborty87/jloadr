@@ -1,6 +1,8 @@
 package de.adito.jloadr.repository.local;
 
-import de.adito.jloadr.api.*;
+import de.adito.jloadr.api.IStore;
+import de.adito.jloadrLib.api.IStoreResourcePack;
+import de.adito.jloadrLib.repository.local.LocalStoreResourcePack;
 
 import java.io.IOException;
 import java.nio.file.*;

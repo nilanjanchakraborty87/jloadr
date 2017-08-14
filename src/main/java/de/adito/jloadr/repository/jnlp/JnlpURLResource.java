@@ -2,6 +2,8 @@ package de.adito.jloadr.repository.jnlp;
 
 import de.adito.jloadr.api.*;
 import de.adito.jloadr.repository.*;
+import de.adito.jloadrLib.api.*;
+import de.adito.jloadrLib.repository.ResourceId;
 import org.w3c.dom.Element;
 
 import java.io.*;

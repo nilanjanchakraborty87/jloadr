@@ -1,6 +1,8 @@
 package de.adito.jloadr.repository.jlr;
 
 import de.adito.jloadr.common.*;
+import de.adito.jloadrLib.common.XMLUtil;
+import de.adito.jloadrLib.repository.jlr.JlrPack;
 import org.w3c.dom.Document;
 
 import java.net.URL;

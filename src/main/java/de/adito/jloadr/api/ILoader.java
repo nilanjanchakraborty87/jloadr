@@ -1,5 +1,7 @@
 package de.adito.jloadr.api;
 
+import de.adito.jloadrLib.api.*;
+
 /**
  * An ILoader is responsible for loading a resource pack to the local store. After loading has completed a copy of the
  * source can be fetched from the store with the source's id.
